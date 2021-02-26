@@ -6,6 +6,10 @@ A more modern icon for the Telegram messenger.
 
 ## How to apply
 
+Clone the repository:
+`$ git clone https://github.com/Nicivian/telegram-dark-icon`
+or [Download the latest release](https://github.com/Nicivian/telegram-dark-icon/archive/v1.0.zip)
+
 ### macOS
 1. Click on `Finder` and navigate to your `Applications` directory. 
 1. Right click or secondary tap on `Telegram` and select `Get Info`.
