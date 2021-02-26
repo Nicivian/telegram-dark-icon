@@ -7,7 +7,9 @@ A more modern icon for the Telegram messenger.
 ## How to apply
 
 Clone the repository:
+
 `$ git clone https://github.com/Nicivian/telegram-dark-icon`
+
 or [Download the latest release](https://github.com/Nicivian/telegram-dark-icon/archive/v1.0.zip)
 
 ### macOS
@@ -24,7 +26,7 @@ or [Download the latest release](https://github.com/Nicivian/telegram-dark-icon/
 1. From the prompt click on `Select icon from` > `Image Files`.
 1. Browse to the cloned directory where you have the [purple-icon.png](https://github.com/Nicivian/telegram-dark-icon/blob/main/purple-icon.png) file saved.
 1. Click on `OK`.
-1. Now in the `Edit Launcher` settings menu apply the changes by clicking on the `save` settings button.
+1. Now in the `Edit Launcher` settings menu apply the changes by clicking on the `Save Settings` button.
 1. Restart `Telegram` if it was running.
 
 ### Microsoft Windows
