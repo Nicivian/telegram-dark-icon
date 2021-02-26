@@ -36,6 +36,6 @@ or [Download the latest release](https://github.com/Nicivian/telegram-dark-icon/
 1. Hit `OK` and then `Apply`.
 > If you already had a Taskbar entry for `Telegram` remove it by right clicking on it > `Remove` and make a new entry by going to `Start` > right click on `Telegram` > `More` > `Pin to Taskbar`.
 
-Like my work? Join my [Telegram Channel](https://t.me/vivi4n)
+Like my work? [Join my Telegram Channel!](https://t.me/vivi4n)
 
-Enjoy :)
+Have Fun :)
