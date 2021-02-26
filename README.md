@@ -30,4 +30,4 @@ A set of more modern icons for the Telegram messenger.
 1. Inside the Folder right click on Telegram's shortcut > `Properties` > `Change Icon` > `Browse`.
 1. Locate the file ![purple-icon.ico](https://github.com/Nicivian/telegram-dark-icons/blob/main/purple-icon.ico) and select it.
 1. Hit `OK` and then `Apply`.
-> If you already had Taskbar entry for `Telegram` remove it buy right clicking > `Remove` and make a new entry by going to `Start` > right click on `Telegram` > `More` > `Pin to Taskbar`.
+> If you already had Taskbar entry for `Telegram` remove it by right clicking > `Remove` and make a new entry by going to `Start` > right click on `Telegram` > `More` > `Pin to Taskbar`.
