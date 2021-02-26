@@ -31,3 +31,7 @@ A more modern icon for the Telegram messenger.
 1. Locate the file `purple-icon.ico` and select it.
 1. Hit `OK` and then `Apply`.
 > If you already had a Taskbar entry for `Telegram` remove it by right clicking on it > `Remove` and make a new entry by going to `Start` > right click on `Telegram` > `More` > `Pin to Taskbar`.
+
+Like my work? Join my [Telegram Channel](https://t.me/vivi4n)
+
+Enjoy :)
