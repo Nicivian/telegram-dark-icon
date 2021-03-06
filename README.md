@@ -1,4 +1,4 @@
-# Telegram Dark Icons
+# Telegram Dark Icon
 A more modern icon for the Telegram messenger.
 
 ## Icon preview
